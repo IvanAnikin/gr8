@@ -1,2 +1,2 @@
 # gr8
-GREAT project | Matural Language Processing
+GREAT project | Natural Language Processing
